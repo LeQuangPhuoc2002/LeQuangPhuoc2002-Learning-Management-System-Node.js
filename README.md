@@ -26,3 +26,29 @@
 - **Manage Courses:** Administer and supervise all courses available on the platform.
 - **Manage Advertisements:** Control and optimize advertising and promotional efforts.
 
+---
+
+## Tech Stack
+
+- Node.js
+- Express.js
+- EJS (View Engine)
+- MySQL
+- phpMyAdmin (via XAMPP)
+
+---
+
+## Installation
+
+```bash
+# Clone the repository
+git clone https://github.com/LeQuangPhuoc2002/LMS.git
+
+# Move into the project directory
+cd LMS
+
+# Install dependencies
+npm install
+
+# Start the server
+npm start
